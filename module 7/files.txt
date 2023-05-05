@@ -1,0 +1,33 @@
+/_codePost_run.sh
+# what tests get ran
+
+/_test102425.py
+/_test102426.py
+/_test102427.py
+/_test102428.py
+/_test102429.py
+/_test102430.py
+/_test102431.py
+/_test102432.py
+/_test102433.py
+/_test102434.py
+# testing python files that get ran
+
+/algorithmsCP.py
+# Prof's correct code files for the file we upload
+
+/ArrayList.py
+/Interfaces.py
+# files from previous modules used in the tests, her code
+
+/outputs/102425.json
+/outputs/102426.json
+/outputs/102427.json
+/outputs/102428.json
+/outputs/102429.json
+/outputs/102430.json
+/outputs/102431.json
+/outputs/102432.json
+/outputs/102433.json
+/outputs/102434.json
+# the result of the tests, see sample_output.json

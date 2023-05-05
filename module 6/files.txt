@@ -1,0 +1,75 @@
+/_codePost_run.sh
+# what tests get ran
+
+/bookstore_input_generator.py
+# python file to generate random bookstore inputs
+
+/_test101784.py
+/_test101785.py
+/_test101786.py
+/_test101787.py
+/_test101788.py
+/_test101789.py
+/_test101790.py
+/_test101791.py
+/_test101792.py
+/_test101793.py
+# testing python files that get ran, 10 for the 10 non i/o tests
+
+/_test102219.sh
+/_test102220.sh
+/_test102221.sh
+/_test102222.sh
+/_test102223.sh
+# bash files that are for the i/o tests
+
+/bookstore_input_0.txt
+/bookstore_input_1.txt
+/bookstore_input_2.txt
+/bookstore_input_3.txt
+/bookstore_input_4.txt
+# not included but randomly generated inputs for testing bookstore
+
+/mainCP.py
+/BinaryHeapCP.py
+/BookStoreCP.py
+# Prof's correct code files for the 3 files we upload
+
+/feedback_0.txt
+/feedback_1.txt
+/feedback_2.txt
+/feedback_3.txt
+/feedback_4.txt
+# I think these are for outputs of i/o tests but cut down, not included
+
+/Book.py
+/Interfaces.py
+/DLLDeque.py
+/ArrayDeque.py
+# not included but classes that are needed, no edits are done to these
+
+/SLLQueue.py
+/BinaryTree.py
+/ArrayList.py
+/RandomQueue.py
+/ArrayStack.py
+/ChainedHashTable.py
+/Calculator.py
+/SLLStack.py
+/MaxQueue.py
+/ArrayQueue.py
+/BinarySearchTree.py
+/DLList.py
+# files from previous modules used in the tests, her code
+
+/outputs/101784.json
+/outputs/101786.json
+/outputs/101789.json
+/outputs/101787.json
+/outputs/101785.json
+/outputs/101790.json
+/outputs/101793.json
+/outputs/101791.json
+/outputs/101792.json
+/outputs/101788.json
+# the result of the tests, see sample_output.json
